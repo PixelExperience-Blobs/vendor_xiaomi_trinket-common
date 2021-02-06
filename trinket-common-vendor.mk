@@ -190,7 +190,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/trinket-common/proprietary/vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service \
     vendor/xiaomi/trinket-common/proprietary/vendor/bin/hw/vendor.qti.hardware.scve.objecttracker@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.scve.objecttracker@1.0-service \
     vendor/xiaomi/trinket-common/proprietary/vendor/bin/hw/vendor.qti.hardware.scve.panorama@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.scve.panorama@1.0-service \
-    vendor/xiaomi/trinket-common/proprietary/vendor/bin/hw/vendor.qti.hardware.servicetracker@1.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.servicetracker@1.1-service \
     vendor/xiaomi/trinket-common/proprietary/vendor/bin/hw/vendor.qti.hardware.soter@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.soter@1.0-service \
     vendor/xiaomi/trinket-common/proprietary/vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti \
     vendor/xiaomi/trinket-common/proprietary/vendor/bin/hw/vendor.qti.power.pasrmanager@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.power.pasrmanager@1.0-service \
@@ -511,7 +510,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/trinket-common/proprietary/vendor/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so \
     vendor/xiaomi/trinket-common/proprietary/vendor/lib64/hw/vendor.qti.hardware.scve.objecttracker@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.scve.objecttracker@1.0-impl.so \
     vendor/xiaomi/trinket-common/proprietary/vendor/lib64/hw/vendor.qti.hardware.scve.panorama@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.scve.panorama@1.0-impl.so \
-    vendor/xiaomi/trinket-common/proprietary/vendor/lib64/hw/vendor.qti.hardware.servicetracker@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.servicetracker@1.1-impl.so \
     vendor/xiaomi/trinket-common/proprietary/vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so \
     vendor/xiaomi/trinket-common/proprietary/vendor/lib64/hw/vendor.qti.power.pasrmanager@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.power.pasrmanager@1.0-impl.so \
     vendor/xiaomi/trinket-common/proprietary/vendor/lib64/hw/vendor.xiaomi.hardware.misys@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.xiaomi.hardware.misys@1.0-impl.so \
